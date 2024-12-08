@@ -1,0 +1,2 @@
+MAGO : 0
+ESQUELETO : 0
